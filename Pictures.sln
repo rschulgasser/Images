@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pictures.web", "Pictures.web\Pictures.web.csproj", "{7D101E82-04DD-4A8C-AD87-6C31B7DDDE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pictures.data", "Pictures.data\Pictures.data.csproj", "{63340F76-521E-4BDA-AD2B-A51A279F4484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D101E82-04DD-4A8C-AD87-6C31B7DDDE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D101E82-04DD-4A8C-AD87-6C31B7DDDE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D101E82-04DD-4A8C-AD87-6C31B7DDDE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D101E82-04DD-4A8C-AD87-6C31B7DDDE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63340F76-521E-4BDA-AD2B-A51A279F4484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63340F76-521E-4BDA-AD2B-A51A279F4484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63340F76-521E-4BDA-AD2B-A51A279F4484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63340F76-521E-4BDA-AD2B-A51A279F4484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD7D746-A9F6-4E17-B1A8-1469B7F96932}
+	EndGlobalSection
+EndGlobal
